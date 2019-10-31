@@ -15,6 +15,6 @@ Run the tests:
 - [TDD explained](https://martinfowler.com/bliki/TestDrivenDevelopment.html)
 - [Jest test runner](https://jestjs.io/)
 - [VS Code plugin](https://github.com/jest-community/vscode-jest)
-- [Mirjam's talk on testing React](https://www.youtube.com/watch?v=V7QRcnnMoKI&list=PLZQv2lZnFSKfAYvlnrVylNcHDPjxptFjX&index=4)
+- [Mirjam's talk explaining TDD with dog training 🐶](https://www.youtube.com/watch?v=V7QRcnnMoKI&list=PLZQv2lZnFSKfAYvlnrVylNcHDPjxptFjX&index=4)
 - [RPG Combat Kata](https://www.slideshare.net/DanielOjedaLoisel/rpg-combat-kata)
 
