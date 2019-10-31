@@ -1,0 +1,21 @@
+{
+  "name": "codedoor-tdd-intro",
+  "version": "1.0.0",
+  "description": "CodeDoor TDD intro",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Markus Tacker | https://coderbyheart.com/",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  },
+  "homepage": "https://github.com/coderbyheart/codedoor-tdd-intro",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coderbyheart/codedoor-tdd-intro.git"
+  },
+  "bugs": {
+    "url": "https://github.com/coderbyheart/codedoor-tdd-intro/issues"
+  }
+}
